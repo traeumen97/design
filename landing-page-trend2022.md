@@ -1,7 +1,7 @@
 # 2022년 랜딩페이지 디자인 트렌드
 
 ## <span style="color: #2c74ff;">1. 인터랙티브하고 커스터마이징이 가능한 경험 (Interactive, Customizable experience)</span>
-<img src="landingtrend-img/interactive-customizing.png" width="800">
+<img src="landingtrend-img/interactive-customizable.png" width="800">
 
         최근 가장 각광 받고 있는 트렌드. 커스터마이징이 가능한 경험을 위한 이터랙티브 랜딩페이지
         참여와 시간을 늘리는 좋은 방법이며 두 가지 모두 랜딩페이지 성능 향상에 도움이 되지만
@@ -24,7 +24,7 @@
 <br>
 
 ## <span style="color: #2c74ff;">3. 설명 영상 (Explainer Videos)</span>
-<img src="landingtrend-img/explanation.png" width="800">
+<img src="landingtrend-img/explainer.png" width="800">
 
         단순한 영상을 쓰는 것이 아니라 상세 설명을 도와주는 영상들을 사용
         제품이나 서비스 사용 방법에 대한 세부적인 설명 영상
@@ -49,7 +49,7 @@
 <br>
 
 ## <span style="color: #2c74ff;">5. 이메일 전용 양식 (Email-only forms)</span>
-<img src="landingtrend-img/email.png" width="800">
+<img src="landingtrend-img/email-only.png" width="800">
 
         뉴스레터를 구독하거나 무료 평가판을 시작하기 위해 여러 개인 정보를 채워 제출하려는 사람은 없음
         따라서 2022년에는 더 많은 이메일 전용 양식을 볼 수 있을 것
@@ -74,7 +74,7 @@
 <br>
 
 ## <span style="color: #2c74ff;">8. 활동적인 이미지 (Playful imagery)</span>
-<img src="landingtrend-img/active-image.png" width="800">
+<img src="landingtrend-img/playful.png" width="800">
 
         선이 굵은 애니메이션가 추상적인 요소, 다수의 볼드한 색상들을 의미
         또한 사진이나 제품 이미지에 애니메이션을 혼합하는 것을 의미할 수 있음
@@ -92,7 +92,7 @@
 <br>
 
 ## <span style="color: #2c74ff;">10. 몽환적인 배경 (Dreamy Backgrounds)</span>
-<img src="landingtrend-img/dreamlike.png" width="800">
+<img src="landingtrend-img/dreamy.png" width="800">
 
         빠른 로딩 시간이 그 어늗대보다 중요해졌기 때문에
         이미지가 압축되어 있고 페이지 로딩이 빠르게 로딩되는 확인하는 것이 좋음

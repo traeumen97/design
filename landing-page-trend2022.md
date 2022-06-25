@@ -1,6 +1,6 @@
 # 2022년 랜딩페이지 디자인 트렌드
 
-1. 인터랙티브하고 커스터마이징이 가능한 경험
+## <span style="color: #2c74ff;">1. 인터랙티브하고 커스터마이징이 가능한 경험</span>
 <img src="ladingtrend-img/interactive-customizing.png" width="400px">
 
         최근 가장 각광 받고 있는 트렌드. 커스터마이징이 가능한 경험을 위한 이터랙티브 랜딩페이지
@@ -10,7 +10,7 @@
 
 <br>
 
-2. 대화형 문구
+## <span style="color: #2c74ff;">2. 대화형 문구</span>
 <img src="ladingtrend-img/conversational.png" width="400px">
         
         대부분의 랜딩페이지 경험의 중심은 디자인임
@@ -23,7 +23,7 @@
 
 <br>
 
-3. 설명 영상
+## <span style="color: #2c74ff;">3. 설명 영상</span>
 <img src="ladingtrend-img/explanation.png" width="400px">
 
         단순한 영상을 쓰는 것이 아니라 상세 설명을 도와주는 영상들을 사용
@@ -35,7 +35,7 @@
 
 <br>
 
-4. 고객리뷰
+## <span style="color: #2c74ff;">4. 고객리뷰</span>
 <img src="ladingtrend-img/review.png" width="400px">
 
         서셜미디어나 다양한 컴니티, 블로그 등에서의 고객의 긍정적인 제품 후기는 무척 가치 있는 추천글임
@@ -48,7 +48,7 @@
 
 <br>
 
-5. 이메일 전용 양식
+## <span style="color: #2c74ff;">5. 이메일 전용 양식</span>
 <img src="ladingtrend-img/email.png" width="400px">
 
         뉴스레터를 구독하거나 무료 평가판을 시작하기 위해 여러 개인 정보를 채워 제출하려는 사람은 없음
@@ -56,7 +56,7 @@
 
 <br>
 
-6. 성별 중립 문구와 성별 포함 양식
+## <span style="color: #2c74ff;">6. 성별 중립 문구와 성별 포함 양식</span>
 <img src="ladingtrend-img/gender.png" width="400px">
 
         성포용성(Gender Inclusivity)은 랜딩페이지 디자인과 문구, 일반적으로 염두에 두어야 할 중요한 사항
@@ -65,7 +65,7 @@
 
 <br>
 
-7. 모션이 있는 애니메이션
+## <span style="color: #2c74ff;">7. 모션이 있는 애니메이션</span>
 <img src="ladingtrend-img/motion-animation.gif" width="400px">
 
         영상이나 인터랙티브 콘텐츠를 통해 랜딩페이지를 잠재 고객들에게 더울 매력적으로 만들 수 있음
@@ -73,7 +73,7 @@
 
 <br>
 
-8. 활동적인 이미지
+## <span style="color: #2c74ff;">8. 활동적인 이미지</span>
 <img src="ladingtrend-img/active-image.png" width="400px">
 
         선이 굵은 애니메이션가 추상적인 요소, 다수의 볼드한 색상들을 의미
@@ -83,7 +83,7 @@
 
 <br>
 
-9. 얼리오트
+## <span style="color: #2c74ff;">9. 얼리오트</span>
 <img src="ladingtrend-img/early-aughts.png" width="400px">
 
         대개 광택이 나는 이미지, 반짝이, 버블 폰트, 밝은 색상 등의 디자인 미학을 의미
@@ -91,7 +91,7 @@
 
 <br>
 
-10. 몽환적인 배경
+## <span style="color: #2c74ff;">10. 몽환적인 배경</span>
 <img src="ladingtrend-img/dreamlike.png" width="400px">
 
         빠른 로딩 시간이 그 어늗대보다 중요해졌기 때문에
@@ -100,7 +100,7 @@
 
 <br>
 
-11. 코랄
+### 11. 코랄
 <img src="ladingtrend-img/coral.png" width="400px">
 
         코랄은 따듯하고 친숙하고 편안한 색상이고 중요한 랜딩페이지 디자인 트렌드가 될 것
